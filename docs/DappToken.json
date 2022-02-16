@@ -1,5 +1,5 @@
 {
-  "contractName": "DappToken",
+  "contractName": "Olive",
   "abi": [
     {
       "constant": true,
